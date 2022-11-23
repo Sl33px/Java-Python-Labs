@@ -1,0 +1,8 @@
+model, weight, price, manufacture
+favie, 32.4, 2100.0, a
+model, weight, price, manufacture, material, lengthOfCable
+solar, 12.6, 1800.0, c, steel, 120
+model, weight, price, manufacture, pressure, color
+quvie, 4.5, 1200.0, f, 25.25, red
+model, weight, price, manufacture, material, color
+bogie, 2.1, 2000.0, b, sefde, orange
